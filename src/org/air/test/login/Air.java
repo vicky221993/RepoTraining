@@ -6,6 +6,7 @@ public class Air {
 	}
 	public void helicopter() {
 System.out.println("Helicopter is an Air Transport");
+System.out.println("Changes done");
 	}
 public static void main(String[] args) {
 	Air a = new Air();
